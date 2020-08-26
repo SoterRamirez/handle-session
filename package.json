@@ -1,0 +1,28 @@
+{
+  "name": "handle-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoterRamirez/handle-session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoterRamirez/handle-session/issues"
+  },
+  "homepage": "https://github.com/SoterRamirez/handle-session#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
